@@ -39,7 +39,7 @@ The network follows a standard sequential CNN design:
 ## How to Run
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/PyPro2024/CNN-Image-Classifier-MNIST.git](https://github.com/PyPro2024/CNN-Image-Classifier-MNIST.git)
+    git clone [https://github.com/PyPro2024/CNN-Image-Classifier-MNIST.git]
     ```
 2.  **Install dependencies:**
     ```bash
